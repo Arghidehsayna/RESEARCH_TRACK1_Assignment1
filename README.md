@@ -15,6 +15,10 @@ The assignment utilizes a portable robot simulator developed by [Student Robotic
 
 <img src="photo_2023-11-28_11-01-08.jpg" width="400px">
 "third figure: The boxes collected by the robot:"
+
+<h1>Flowchart</h1> 
+<img src="Flowchart.png">
+
  
 
 Installing and running
