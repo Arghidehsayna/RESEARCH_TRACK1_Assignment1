@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Python Robotics Simulator
 ================================
 
@@ -103,3 +104,6 @@ for m in markers:
 ```
 
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
+=======
+# Assignment1
+>>>>>>> 83699b16bd799aa6af3d975d7dfe7873d6ed47e8
