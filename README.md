@@ -6,6 +6,7 @@ The assignment utilizes a portable robot simulator developed by [Student Robotic
 
 <h1>figures of the robot</h1> 
 <img src="photo_2023-11-28_10-59-09.jpg" width="400px">
+"The overall environment of the robot along with the boxes:"
  
 
 Installing and running
