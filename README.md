@@ -4,7 +4,9 @@ This is the first assignment for the Research Track 1 course. In this project, t
 
 The assignment utilizes a portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
 
-
+<h1>figures of the robot</h1> 
+<img src="photo_2023-11-28_10-59-09.jpg" width="400px">
+ 
 
 Installing and running
 ----------------------
