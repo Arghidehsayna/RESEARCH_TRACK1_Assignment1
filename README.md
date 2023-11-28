@@ -7,6 +7,9 @@ The assignment utilizes a portable robot simulator developed by [Student Robotic
 <h1>figures of the robot</h1> 
 <img src="photo_2023-11-28_10-59-09.jpg" width="400px">
 "The overall environment of the robot along with the boxes:"
+<img src="photo_2023-11-28_10-58-58.jpg" width="400px">
+"The robot in the process of collecting boxes:"
+
  
 
 Installing and running
