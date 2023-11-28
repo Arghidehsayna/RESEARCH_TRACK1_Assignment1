@@ -1,5 +1,4 @@
-HEAD
-Python Robotics Simulator
+HEAD Python Robotics Simulator
 ================================
 
 This is a simple, portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
