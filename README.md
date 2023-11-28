@@ -1,8 +1,10 @@
 HEAD Python Robotics Simulator
 ================================
+This is the first assignment for the Research Track 1 course. In this project, the objective is to design a robot that can collect gold-colored boxes on a surface and deposit them inside a predetermined location, which is our target. The aim is to have all the boxes placed together within a specific environment.
 
-This is a simple, portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
-Some of the arenas and the exercises have been modified for the Research Track I course
+The assignment utilizes a portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
+
+
 
 Installing and running
 ----------------------
