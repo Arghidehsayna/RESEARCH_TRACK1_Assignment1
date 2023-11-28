@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 Python Robotics Simulator
 ================================
 
