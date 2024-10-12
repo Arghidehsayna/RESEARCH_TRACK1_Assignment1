@@ -6,11 +6,11 @@ The assignment utilizes a portable robot simulator developed by [Student Robotic
 
 <h1>figures of the robot</h1> 
 
-<img src="(https://github.com/Arghidehsayna/RESEARCH_TRACK1_Assignment1/blob/master/2.png?raw=true).jpg" width="400px">
+<img src=".jpg" width="400px">
 "Second figure: The robot in the process of collecting boxes"
 
 
-<img src="photo_2023-11-28_11-01-08.jpg" width="400px">
+<img src=".jpg" width="400px">
 "third figure: The boxes collected by the robot:"
 
 <h1>Flowchart</h1> 
