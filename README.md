@@ -6,7 +6,7 @@ The assignment utilizes a portable robot simulator developed by [Student Robotic
 
 <h1>figures of the robot</h1> 
 
-<img src=".jpg" width="400px">
+<img src="1.png.jpg" width="400px">
 "Second figure: The robot in the process of collecting boxes"
 
 
